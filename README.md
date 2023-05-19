@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi, I’m @s4remi
+👋 Hi, I’m @s4remi<br>
 👀 I’m a CS grad student in Northeastern University
 🌱 I am currently a student in the Khoury College of Computer Science at
       Northeastern University, San Francisco campus. I am hoping to graduate in
