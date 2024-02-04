@@ -27,7 +27,7 @@ Here are some ideas to get you started:
       job opportunities in the future. In addition to computer graphics, I am
       also interested in backend development technologies such as distributed
       systems and networking.</li>
-            <li>📫 How to reach me s4remi@gmail.com</li>   
+            <li>How to reach me on twitter @lalsl</li>   
       </ul>
 </body>
 
