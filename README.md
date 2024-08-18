@@ -18,15 +18,8 @@ Here are some ideas to get you started:
 <body>
       <ul>
             <li>👋 Hi, I’m @s4remi</li>
-            <li>🌱 I am currently a student in the Khoury College of Computer Science at
-      Northeastern University, San Francisco campus. I am hoping to graduate in
-      2024. Prior to this, I earned my B.Eng in civil Engineering and AS in
-      Mathematics. I am highly interested in most areas of computer science,
-      with a particular interest in computer graphics such ase <em><strong>AR,VR, Visualization and Computer Vision.</strong></em><br/></li>
-            <li>I hope to maintain my passion for computer graphics and pursue relevant
-      job opportunities in the future. In addition to computer graphics, I am
-      also interested in backend development technologies such as distributed
-      systems and networking.</li>
+            <li>🌱 I am highly interested in most areas of computer science,
+      with a viriety of interest in <em><strong>AR,VR, Visualization and Computer Vision, AWS, Cloud computing, AI, backend development technologies such as distributed systems and networking</strong></em><br/></li>
             <li>How to reach me on twitter @lalsl</li>   
       </ul>
 </body>
