@@ -20,7 +20,7 @@ Here are some ideas to get you started:
             <li>👋 Hi, I’m @s4remi</li>
             <li>🌱 I am highly interested in most areas of computer science,
       with a viriety of interest in <em><strong>AR,VR, Visualization and Computer Vision, AWS, Cloud computing, AI, backend development technologies such as distributed systems and networking</strong></em><br/></li>
-            <li>How to reach me on twitter @lalsl</li>   
+            <li></li>   
       </ul>
 </body>
 
